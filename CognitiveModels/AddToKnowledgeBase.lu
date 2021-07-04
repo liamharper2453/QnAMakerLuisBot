@@ -1,0 +1,35 @@
+
+> LUIS application information
+> !# @app.name = AddToKnowledgeBase
+> !# @app.versionId = 0.1
+> !# @app.culture = en-us
+> !# @app.luis_schema_version = 7.0.0
+> !# @app.tokenizerVersion = 1.0.0
+
+
+> # Intent definitions
+
+# AddToKnowledgeBase
+- i have something to add
+- i would like to add a question
+- i would like to add to the knowledge base
+- i would like to teach you something
+
+
+# None
+
+
+> # Entity definitions
+
+
+> # PREBUILT Entity definitions
+
+
+> # Phrase list definitions
+
+
+> # List entities
+
+> # RegEx entities
+
+

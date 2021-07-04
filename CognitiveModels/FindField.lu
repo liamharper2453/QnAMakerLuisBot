@@ -1,0 +1,48 @@
+
+> LUIS application information
+> !# @app.name = FindField
+> !# @app.versionId = 0.1
+> !# @app.culture = en-us
+> !# @app.luis_schema_version = 7.0.0
+> !# @app.tokenizerVersion = 1.0.0
+
+
+> # Intent definitions
+
+# Find Field
+- what tab is {@Field=apir} on
+- what tab is the {@Field=apir} field on
+- where can i find {@Field=apir}
+- where can i find the {@Field=apir} field
+- where is {@Field=apir}
+- where is the {@Field=apir} field
+- where is the location of the {@Field=apir} field
+- where is the {@Field_PatternAny} field
+- where can i find {@Field_PatternAny}
+- where can i find the {@Field_PatternAny} field
+- where is {@Field_PatternAny}
+- what tab is the {@Field_PatternAny} field on
+
+
+# None
+
+
+> # Entity definitions
+
+@ ml Field
+
+
+> # PREBUILT Entity definitions
+
+
+> # Phrase list definitions
+
+
+> # List entities
+
+> # RegEx entities
+
+
+> # Pattern.Any entities
+
+@ patternany Field_PatternAny

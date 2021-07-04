@@ -1,0 +1,46 @@
+
+> LUIS application information
+> !# @app.name = GetFieldHelp
+> !# @app.versionId = 0.1
+> !# @app.culture = en-us
+> !# @app.luis_schema_version = 7.0.0
+> !# @app.tokenizerVersion = 1.0.0
+
+
+> # Intent definitions
+
+# GetFieldHelp
+- what does {@fieldName=fund name} mean
+- what is a {@fieldName=fund name}
+- what is {@fieldName=fund name}
+- what is the definition of {@fieldName=fund name}
+- what is the meaning of {@fieldName=fund name}
+- what is the meaning of {@Pattern.any}
+- what is the definition of {@Pattern.any}
+- what does {@Pattern.any} mean
+- what is a {@Pattern.any}
+- what is the field help for {@Pattern.any}
+
+
+# None
+
+
+> # Entity definitions
+
+@ ml fieldName
+
+
+> # PREBUILT Entity definitions
+
+
+> # Phrase list definitions
+
+
+> # List entities
+
+> # RegEx entities
+
+
+> # Pattern.Any entities
+
+@ patternany Pattern.any

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundMasterBot", "FundMasterBot.csproj", "{122BF371-6976-423B-87CB-922F751B035A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122BF371-6976-423B-87CB-922F751B035A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{122BF371-6976-423B-87CB-922F751B035A}.Debug|Any CPU.Build.0 = Debug|x64
+		{122BF371-6976-423B-87CB-922F751B035A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122BF371-6976-423B-87CB-922F751B035A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B0EAA0-E652-41CE-84DE-D020BA1ECC9A}
+	EndGlobalSection
+EndGlobal

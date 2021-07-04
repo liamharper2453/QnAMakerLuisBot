@@ -1,0 +1,9 @@
+{
+  "modelPath": "C:\\Users\\Liam\\source\\repos\\QnALuisBot\\model",
+  "snapshotPath": "C:\\Users\\Liam\\source\\repos\\QnALuisBot\\generated\\orchestrator.blu",
+  "dataSources": {
+    "hierarchical": false,
+    "inputs": [],
+    "path": "C:\\Users\\Liam\\source\\repos\\QnALuisBot\\dataSources"
+  }
+}
