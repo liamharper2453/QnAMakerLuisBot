@@ -1,10 +1,10 @@
-A bot that utilises QnAMaker, LUIS and Orchestrator.
+A bot that utilises QnA Maker, LUIS and Orchestrator.
 
 This was completed as part of my dissertation project that aimed to integrate a chat bot into a financial services platform.
 
-QnAMaker is used to simply return answers to a user based on a question answer knowledge base. The chat bot will read the knowledge base and generate many variations of asking the same question meaning a user doesn't have to ask it the exact question stored.
+QnA Maker is used to simply return answers to a user based on a question answer knowledge base. The chat bot will read the knowledge base and generate many variations of asking the same question meaning a user doesn't have to ask it the exact question stored.
 
-QnAMaker also allows the chat bot to be self-learning. In this implementation, a user can tell the chat bot to add information to its knowledge base.
+My implementation using QnA Maker also allows the chat bot to learn new information dynamically. In this implementation, a user can tell the chat bot to add information to its knowledge base.
 
 For example, a user could tell the chat bot:
 
