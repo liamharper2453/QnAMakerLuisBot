@@ -18,6 +18,10 @@ Once the learning process is complete, another user could successfully ask it so
 
 The chat bot would successfully return 2.
 
+See this working in action here:
+
+https://user-images.githubusercontent.com/25060863/216345881-6a55ac25-9908-455e-98a7-e000b77d1c92.mp4
+
 LUIS is used for context, what this means is that the chat bot can infer an action that the user would like to do.
 
 For example, a user could ask the chat bot:
